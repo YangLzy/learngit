@@ -5,3 +5,4 @@ feature1 changed
 master branch changed
 confiult fixed
 dev branch changed
+bug fixed
